@@ -29,7 +29,7 @@ Each numbered script opens an animation window. **Click anywhere** in the worksp
 | `3_newtons_method.py` | Newton / Gauss-Newton | None |
 | `4_quasi_newton_bfgs.py` | BFGS | None |
 | `5_conjugate_gradient.py` | Conjugate Gradient | None |
-| `6_newton_kkt.py` | Newton KKT (equality) | Joint equality constraint |
+| `6_newton_kkt.py` | Newton KKT (equality) | Equality constraint |
 | `7_infeasible_newton.py` | Infeasible-start Newton | Equality constraint |
 | `8_interior_point.py` | Interior Point (log-barrier) | Joint limits + obstacle |
 

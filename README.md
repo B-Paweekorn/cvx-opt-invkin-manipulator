@@ -2,6 +2,12 @@
 
 Inverse kinematics for a planar robotic arm solved with eight optimization algorithms, from basic gradient descent to constrained interior-point methods.
 
+
+
+https://github.com/user-attachments/assets/fdbf0fdf-3c8e-4f1c-b8f5-d20d5ec459b4
+
+
+
 ---
 
 ## Requirements
